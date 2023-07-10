@@ -19,7 +19,7 @@
 
 /* featured section */
 
-.Featured-section{ border: 2px solid black; margin: 50px; padding-bottom: 0px; background-color: rgba(170, 223, 205, 0.267); }
+.Featured-section{ border: 1px solid rgba(56, 54, 54, 0.089); margin: 50px; padding-bottom: 0px; background-color: rgba(170, 223, 205, 0.267); }
 
 .title{ width: 594px; height: 80px; text-align: center; margin: auto; margin-top: 50px; padding-bottom: 13px; }
 
