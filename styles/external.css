@@ -33,7 +33,7 @@
 
 .img-div3{ background-color: #477d1141; border-radius: 150px 150px 0px 0px; height: 400px }
 
-.flower-name{ text-align: center; font-weight: 700; color: #3a31319a;  }
+.flower-name{ text-align: center; font-weight: 700; color: #3a31319a; text-decoration: underline;  }
 
 .imgs{ display: flex; width: 900px; height: 430px; justify-content: space-between; margin: auto;}
 
@@ -43,6 +43,41 @@
 .img2{ width: 300px; height: 350px;}
 
 .img3{height: 400px;}
+
+/* Support section */
+
+.delivery{ border: 2px solid black; display: flex; justify-content: space-between; width: 900px; margin: auto; padding: 25px; background-color: #27272715; margin-top: 120px;}
+
+.delivery-description{ text-align: center;}
+
+.icon-description{ font-weight: 600; color: #252424ea;}
+
+/* Hot deals section */
+
+.hot-deal{ padding: 55px; display: flex; align-items: center; justify-content: space-around; height: 420px; margin: 120px 0px 100px 0px; background-color: #df315715;  }
+
+.deal-description{ width: 494px; height: 228px; text-align: center; }
+
+.deal-title{ padding: 20px; font-size: 28px; font-weight: 900px; font-style: italic; color: #292020; }
+
+.off{ color: #cf3355; }
+
+.deal-explain{ padding: 0px 5px 25px 5px; width: 500px; height: 60px; color: #252424cb; font-size: 17px; }
+
+
+/* footer section */
+
+.footer{ height: 260px; border: 2px solid black; text-align: center; padding: 70px; background-color: #111010; }
+
+.footer-text{ font-size: 45px; font-weight: bolder; color: whitesmoke; }
+.dsign{ color: #E55473;}
+
+.footer-description{ padding: 30px 30px 10px 30px; text-align: center;  font-weight: 500; font-size: 18px; color: whitesmoke; }
+
+.all-rights-reserved{ margin-top: 60px; font-size: 18px; font-weight: 400;  color: wheat;  }
+
+
+
 
 
 
