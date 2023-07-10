@@ -16,3 +16,27 @@
 .btn >a{ text-decoration: none; color: rgba(255, 255, 255, 0.938); font-style: italic;}
 
 .btn>a:hover{color: aquamarine;}
+
+/* featured section */
+
+.Featured-section{ border: 2px solid black; margin: 50px; padding-bottom: 0px; }
+
+.title{ width: 594px; height: 132px; text-align: center; margin: auto;  }
+
+.img-div1{ background-color:#e5547352; padding: 15px; border-radius: 150px 150px 0px 0px; height: 370px; }
+
+.img-div2{background-color: #0598a042;padding-top:15px; border-radius: 150px 150px 0px 0px; height: 385px }
+
+.img-div3{ background-color: #477d1141; border-radius: 150px 150px 0px 0px; height: 400px }
+
+.imgs{ display: flex; justify-content: center ; padding: 10px 10px 00px 10px; width: 1440px; height: 605px; margin: auto;  }
+
+
+.img1{ width:250px; height: 385px; }
+
+.img2{ width: 300px; height: 350px;}
+
+.img3{height: 400px;}
+
+
+
