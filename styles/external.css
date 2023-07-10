@@ -33,7 +33,9 @@
 
 .img-div3{ background-color: #477d1141; border-radius: 150px 150px 0px 0px; height: 400px }
 
-.imgs{ display: flex; width: 900px; height: 400px; justify-content: space-between; margin: auto;}
+.flower-name{ text-align: center; font-weight: 700; color: #3a31319a;  }
+
+.imgs{ display: flex; width: 900px; height: 430px; justify-content: space-between; margin: auto;}
 
 
 .img1{ width:250px; height: 385px; }
