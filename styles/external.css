@@ -19,9 +19,13 @@
 
 /* featured section */
 
-.Featured-section{ border: 2px solid black; margin: 50px; padding-bottom: 0px; }
+.Featured-section{ border: 2px solid black; margin: 50px; padding-bottom: 0px; background-color: rgba(170, 223, 205, 0.267); }
 
-.title{ width: 594px; height: 132px; text-align: center; margin: auto;  }
+.title{ width: 594px; height: 80px; text-align: center; margin: auto; margin-top: 50px; padding-bottom: 13px; }
+
+.main-title{ font-size: 30px; padding: 8px;font-weight:700; font-style: italic; color: #3a3131; }
+
+.main-paragraph{ font-weight: 500; font-size: 17px; font-style: oblique; color: rgba(61, 53, 53, 0.637);   }
 
 .img-div1{ background-color:#e5547352; padding: 15px; border-radius: 150px 150px 0px 0px; height: 370px; }
 
@@ -29,7 +33,7 @@
 
 .img-div3{ background-color: #477d1141; border-radius: 150px 150px 0px 0px; height: 400px }
 
-.imgs{ display: flex; justify-content: center ; padding: 10px 10px 00px 10px; width: 1440px; height: 605px; margin: auto;  }
+.imgs{ display: flex; width: 900px; height: 400px; justify-content: space-between; margin: auto;}
 
 
 .img1{ width:250px; height: 385px; }
