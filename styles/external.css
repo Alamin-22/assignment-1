@@ -1,0 +1,18 @@
+*{padding: 0px; margin: 0px;}
+
+/* banner section */
+
+.banner-section{ display: flex; align-items: center; justify-content: space-between; background-color: #e5547338; padding: 50px 80px 0px 80px ;  }
+
+.banner-text{ width: 50%; }
+.header-img{ width: 450px; height: 600px; background-position: bottom right }
+
+.banner-title{ font-size: 50px; font-weight: 700; color: #252424; }
+
+.banner-paragraph{ margin: 15px 0px 20px 0px; font-size: 20px; color: #252424c4; width: 634px; height: 90px; }
+
+.btn{ padding: 20px 30px 20px 30px ; font-size: 20px; font-weight: bolder; background-color: #E55473; cursor: pointer; border: 0px; border-radius: 5px; }
+
+.btn >a{ text-decoration: none; color: rgba(255, 255, 255, 0.938); font-style: italic;}
+
+.btn>a:hover{color: aquamarine;}
