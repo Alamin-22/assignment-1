@@ -104,4 +104,23 @@
 
 .subscribe:hover{ color: rgb(45, 97, 175);}
 
+/* bonus section */
+
+
+/* contact us section */
+.contact-us{ border: 2px solid black; margin: 50px 0px 50px 0px; height: 250px; text-align: center; background-color: rgba(192, 167, 221, 0.568); }
+
+.contact-us-title{padding: 20px; margin-top: 20px; font-size: 30px;  }
+
+.contact-us-description{ text-align: center; font-size: 20px; font-weight: 500px; color: #221a1a;}
+.contact-us-description>a{ text-decoration: none;}
+
+.contact-btn{ padding: 20px 30px 20px 30px ; font-size: 20px; font-weight: bolder; background-color: #E55473; cursor: pointer; border: 0px; border-radius: 5px; margin-top: 20px;}
+
+.contact-btn>a{text-decoration: none; color: rgba(248, 234, 211, 0.911);}
+
+.contact-btn>a:hover{ color: blueviolet;}
+
+
+
 
