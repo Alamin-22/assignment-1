@@ -72,7 +72,7 @@
 .footer-text{ font-size: 45px; font-weight: bolder; color: whitesmoke; }
 .dsign{ color: #E55473;}
 
-.footer-description{ padding: 30px 30px 10px 30px; text-align: center;  font-weight: 500; font-size: 18px; color: whitesmoke; }
+.footer-description{ padding: 30px 30px 10px 30px; text-align: center;  font-weight: 500; font-size: 18px; color: rgba(245, 245, 245, 0.781); }
 
 .all-rights-reserved{ margin-top: 60px; font-size: 18px; font-weight: 400;  color: wheat;  }
 
