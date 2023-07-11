@@ -54,7 +54,7 @@
 
 /* Hot deals section */
 
-.hot-deal{ padding: 55px; display: flex; align-items: center; justify-content: space-around; height: 420px; margin: 120px 0px 100px 0px; background-color: #df315715;  }
+.hot-deal{ padding: 55px; display: flex; align-items: center; justify-content: space-around; height: 420px; margin: 120px 0px 100px 0px; background-color: #df31572c;  }
 
 .deal-description{ width: 494px; height: 228px; text-align: center; }
 
@@ -67,7 +67,7 @@
 
 /* footer section */
 
-.footer{ height: 260px; border: 2px solid black; text-align: center; padding: 70px; background-color: #111010; }
+.footer{ height: 250px; border: 2px solid black; text-align: center; padding: 70px; background-color: #111010;}
 
 .footer-text{ font-size: 45px; font-weight: bolder; color: whitesmoke; }
 .dsign{ color: #E55473;}
@@ -75,6 +75,8 @@
 .footer-description{ padding: 30px 30px 10px 30px; text-align: center;  font-weight: 500; font-size: 18px; color: rgba(245, 245, 245, 0.781); }
 
 .all-rights-reserved{ margin-top: 60px; font-size: 18px; font-weight: 400;  color: wheat;  }
+
+
 
 /* social section */
 
@@ -106,9 +108,23 @@
 
 /* bonus section */
 
+/* payment section */
+
+.payment{ border: 2px solid rgba(222, 184, 135, 0.315); margin:  50px 0px 50px 0px; height: 280px ;  text-align: center; padding: 10px; background-color:rgba(221, 167, 167, 0.568) }
+
+.icons{ margin-top: 20px;}
+
+.payment-description{ width: 800px; margin: auto; padding: 10px 0px 10px 0px; font-size: 18px; font-weight: 500; color: #0c0a0ae0; }
+
+.payment-method{ margin-top: 10px; font-size: 25px; font-weight: 800; color: #2e2727; }
+
+.btn-learn-more{ padding: 10px 20px 10px 20px ; font-size: 20px; font-weight: 700; background-color: #E55473; cursor: pointer; border: 0px; border-radius: 5px; margin-top: 10px; color: whitesmoke; }
+
+.btn-learn-more:hover{ color:rgba(91, 48, 172, 0.842);}
+
 
 /* contact us section */
-.contact-us{ border: 2px solid black; margin: 50px 0px 50px 0px; height: 250px; text-align: center; background-color: rgba(192, 167, 221, 0.568); }
+.contact-us{ border: 2px solid rgba(0, 0, 0, 0.205); margin: 50px 0px 50px 0px; height: 250px; text-align: center; background-color: rgba(192, 167, 221, 0.568); }
 
 .contact-us-title{padding: 20px; margin-top: 20px; font-size: 30px;  }
 
