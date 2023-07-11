@@ -89,9 +89,17 @@
 
 /* latest-deals */
 
-.latest-deals{ border: 2px solid black; text-align: center; height: 449px; }
+.latest-deals{ border: 2px solid black; text-align: center; width: 750px ;  height: 250px; margin: auto; background-image: url(../Flower\ Asset/#477d1141); }
 
+.latest-title{ font-size: 40px; font-weight: 900; font-style: italic; margin: 80px 0px 10px 0px; color: #111010; }
 
+.latest-description{ margin-bottom: 10px; font-size: 18px; font-weight: 540;  color: #221a1a; }
+
+.input-latest{ margin-top: 20px;}
+
+.input-mail{ width: 450px; height: 30px;}
+
+.subscribe{ width: 100px; height: 35px; }
 
 
 
