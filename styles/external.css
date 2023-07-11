@@ -89,17 +89,19 @@
 
 /* latest-deals */
 
-.latest-deals{ border: 2px solid black; text-align: center; width: 750px ;  height: 250px; margin: auto; background-image: url(../Flower\ Asset/#477d1141); }
+.latest-deals{ border: 2px solid rgba(131, 123, 123, 0.904); text-align: center; width: 750px ;  height: 250px; margin: auto;
+ background-image: url("../Flower Asset/Rectangle\ 9.png"); background-size:cover;   }
 
 .latest-title{ font-size: 40px; font-weight: 900; font-style: italic; margin: 80px 0px 10px 0px; color: #111010; }
 
-.latest-description{ margin-bottom: 10px; font-size: 18px; font-weight: 540;  color: #221a1a; }
+.latest-description{ margin-bottom: 10px; font-size: 18px; font-weight: 540;  color: #221a1ac5; }
 
-.input-latest{ margin-top: 20px;}
+.input-latest{ margin-top: 18px;}
 
-.input-mail{ width: 450px; height: 30px;}
+.input-mail{ width: 450px; height: 30px; border-radius: 5px; border: 1px solid rgba(188, 143, 143, 0.404);}
 
-.subscribe{ width: 100px; height: 35px; }
+.subscribe{ width: 100px; height: 35px; background-color: #e55473;  font-size: 16px; font-weight: 700; color: rgba(255, 255, 255, 0.836); cursor: pointer; border-radius: 5px; border: 0px; }
 
+.subscribe:hover{ color: rgb(45, 97, 175);}
 
 
